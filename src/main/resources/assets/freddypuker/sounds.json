@@ -1,0 +1,62 @@
+{
+  "freddy_scream": {
+    "sounds": [
+      "freddypuker:freddy_scream"
+    ]
+  },
+  "metal_screech": {
+    "sounds": [
+      "freddypuker:metal_screech"
+    ]
+  },
+  "heavy_steps": {
+    "sounds": [
+      "freddypuker:heavy_steps"
+    ]
+  },
+  "heartbeat": {
+    "sounds": [
+      "freddypuker:heartbeat"
+    ]
+  },
+  "whisper": {
+    "sounds": [
+      "freddypuker:whisper"
+    ]
+  },
+  "worm_hiss": {
+    "sounds": [
+      "freddypuker:worm_hiss"
+    ]
+  },
+  "child_cry": {
+    "sounds": [
+      "freddypuker:child_cry"
+    ]
+  },
+  "thunder": {
+    "sounds": [
+      "freddypuker:thunder"
+    ]
+  },
+  "portal_enter": {
+    "sounds": [
+      "freddypuker:portal_enter"
+    ]
+  },
+  "jumpscare": {
+    "sounds": [
+      "freddypuker:jumpscare"
+    ]
+  },
+  "wind": {
+    "sounds": [
+      "freddypuker:wind"
+    ]
+  },
+  "disc_13_horror": {
+    "sounds": [
+      "freddypuker:disc_13_horror"
+    ]
+  }
+}
